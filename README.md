@@ -101,7 +101,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Divinity-dev/To-do-list.git
+  git clone https://github.com/Divinity-dev/Leaderboard
 ```
 -
 
