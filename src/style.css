@@ -63,3 +63,7 @@ h1 {
   border: 1px solid #000;
   margin-top: 10px;
 }
+
+table tr:nth-child(even) {
+  background-color: #9c9c9d9a;
+}

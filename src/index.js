@@ -1,13 +1,16 @@
-// import _ from 'lodash';
-import '../style.css';
+import './style.css';
+import send from './modules/send.js';
+import domdisplay from './modules/functions.js';
 
-// function component() {
-//   const element = document.createElement('div');
-
-//   // Lodash, now imported by this script
-//   element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-
-//   return element;
-// }
-
-// document.body.appendChild(component());
+domdisplay();
+const username = document.getElementById('name');
+const userscore = document.getElementById('score');
+document.getElementById('form').addEventListener('submit', (e) => {
+  e.preventDefault();
+  send({ user: username.value, score: userscore.value });
+  username.value = '';
+  userscore.value = '';
+});
+document.getElementById('refresh').onclick = () => {
+  window.location.reload();
+};

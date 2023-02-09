@@ -12,25 +12,17 @@
     <div class="container-child1">
         <div class="scores">
         <h2>recent scores</h2>
-        <button>refresh</button>
+        <button id="refresh">refresh</button>
     </div>
     <table id="table">
-        <tr>
-            <td>michael: 100</td>
-        </tr>
-        <tr>
-            <td>Sarah: 95</td>
-        </tr>
-        <tr>
-            <td>tracy: 95</td>
-        </tr>
+        
     </table>
 </div>
 <div class="container-child2">
     <h2>Add your score</h2>
-    <form action="submit">
-        <input type="text">
-        <input type="number">
+    <form action="submit" id="form">
+        <input type="text" id="name" required placeholder="Your name">
+        <input type="number" id="score" required placeholder="Your name">
         <button>submit</button>
     </form>
 </div>
