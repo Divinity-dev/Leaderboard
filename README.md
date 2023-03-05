@@ -79,7 +79,7 @@ This is a project for a scoreboard
 
 > Add a link to your deployed project.
 
-- Available soon
+- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
