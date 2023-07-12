@@ -1,9 +1,3 @@
-# Leaderboard
-This is a project for a scoreboard
-
-
-<a name="readme-top"></a>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -37,8 +31,6 @@ This is a project for a scoreboard
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -77,8 +69,6 @@ This is a project for a scoreboard
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://divinity-dev.github.io/Leaderboard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,11 +83,11 @@ This is a project for a scoreboard
 
 - A browser
 - Terminal
-- Code editor
+- Code Editor
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder:https://github.com/Divinity-dev/Leaderboard
 
 ```sh
   cd my-folder
@@ -118,7 +108,7 @@ Install this project with:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command:npm start
 
 ```sh
   npm start
@@ -144,8 +134,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@Divinity-dev](https://github.com/Divinity-dev)
@@ -157,8 +145,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 
 - [ ] **[Add names and score funtion]**
@@ -181,7 +167,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Developers are welcome to improve on the project or use it for their project
 
 If you like this project...
 
@@ -193,7 +178,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to acknowledge the coordinators of microverse for trhe inspiration behind the project.
+I would like to acknowledge the coordinators of Microverse for the inspiration behind the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
